@@ -1,0 +1,2 @@
+rootProject.name = "purse_manager"
+include ':app'
